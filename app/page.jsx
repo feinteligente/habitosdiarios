@@ -8,4 +8,4 @@ export default function Home() {
       <h1 className="text-2xl font-bold mt-4">Mis Hábitos Diarios</h1>
     </main>
   );
-}
+} 
